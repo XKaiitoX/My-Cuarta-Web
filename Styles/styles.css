@@ -1,0 +1,28 @@
+.encabezado{
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    color: rgb(43, 255, 0);
+}
+
+body{
+    background-image: url("https://wallpapercave.com/wp/wp11577668.jpg");
+
+}
+
+p{
+    color: rgb(255, 255, 255);
+}
+table{
+    display: flex;
+    justify-content: center;
+}
+
+table{
+    color: rgb(254, 254, 254);
+    
+}
+
+.tablas{
+    background-color: black;
+    opacity: 5;
+}
